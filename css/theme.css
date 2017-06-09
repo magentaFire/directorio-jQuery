@@ -1,0 +1,18 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+.nav-wrapper {
+  background-color: #d32679;
+}
+
+.margin-btn-plus {
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
